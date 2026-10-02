@@ -1,0 +1,16 @@
+{
+  "name": "Junior Coach",
+  "short_name": "Junior Coach",
+  "description": "Formations, fair-minutes sub planner and drills for junior football teams.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f1f4ee",
+  "theme_color": "#2e7a3a",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
